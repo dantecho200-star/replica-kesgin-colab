@@ -1,0 +1,5 @@
+,Dif. paridad demográfica,Dif. probab. igualadas
+Regresión logística,0.07,0.08
+Random Forest,0.076,0.086
+XGBoost,0.037,0.027
+CatBoost,0.056,0.064
